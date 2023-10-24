@@ -1,0 +1,12 @@
+Total of three trains are avialable
+
+1. REWA-BPL SF 2195  REWA  TO BHOAPAL with no intermediate stops and 
+    return of BPL-REWA SF as train no 2196
+
+2. CHAMBAL EXP 12175 HOWRAH TO GWALIOR with no intermediate stops and 
+    return of train no 12176
+
+3. AMRITSAR EXP 11057  MUMBAI TO AMRITSAR
+                       BHOAPAL
+                       JHANSI
+                       GWALIOR
